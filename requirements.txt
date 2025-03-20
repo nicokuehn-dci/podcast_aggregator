@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+feedparser==6.0.10
+requests==2.31.0
+python-dotenv==1.0.0
+typer==0.9.0
