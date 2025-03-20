@@ -1,9 +1,5 @@
-# podcast_aggregator
-
 
 Go to MAIN branch ...
-
-
 
 # Podcast Aggregator
 
@@ -18,3 +14,44 @@ This Podcast Aggregator is a Streamlit-based web application that allows users t
 
 ## Installation
 1. Clone this repository:
+
+git clone https://github.com/your-username/podcast-aggregator.git
+
+text
+2. Navigate to the project directory:
+
+cd podcast-aggregator
+
+text
+3. Install the required dependencies:
+
+pip install -r requirements.txt
+
+text
+
+## Usage
+1. Run the application:
+
+streamlit run aggregator.py
+
+text
+2. Open your web browser and go to the URL provided by Streamlit (usually `http://localhost:8501`).
+
+3. Use the sidebar to navigate between different actions:
+- **Search RSS Feeds**: Enter a website URL to find podcast RSS feeds.
+- **View Podcasts**: See the latest episodes from your added podcasts.
+- **Update Feeds**: Refresh all stored podcast feeds.
+
+## Dependencies
+- streamlit
+- beautifulsoup4
+- feedparser
+- requests
+- python-dotenv
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
+
