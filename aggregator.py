@@ -295,3 +295,5 @@ if __name__ == "__main__":
         # Automatically start Streamlit
         if "streamlit" not in sys.argv:
             subprocess.run([sys.executable, "-m", "streamlit", "run", __file__, "streamlit"])
+            
+            
