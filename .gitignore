@@ -1,0 +1,24 @@
+# Database
+podcasts.db
+
+# Python virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Any log files
+*.log
