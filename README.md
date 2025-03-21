@@ -13,28 +13,25 @@ This Podcast Aggregator is a Streamlit-based web application that allows users t
 - Update all stored podcast feeds
 
 ## Installation
-1. Clone this repository:
 
+1. Clone this repository:
 git clone https://github.com/your-username/podcast-aggregator.git
 
-text
-2. Navigate to the project directory:
 
+2. Navigate to the project directory:
 cd podcast-aggregator
 
-text
-3. Install the required dependencies:
 
+3. Install the required dependencies:
 pip install -r requirements.txt
 
-text
 
 ## Usage
 1. Run the application:
 
 streamlit run aggregator.py
 
-text
+
 2. Open your web browser and go to the URL provided by Streamlit (usually `http://localhost:8501`).
 
 3. Use the sidebar to navigate between different actions:
